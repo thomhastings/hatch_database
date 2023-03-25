@@ -3,12 +3,13 @@
 `$ unzip hatch_demo.zip`  
 `$ dosbox`  
 
-In DOSbox:
+Within the DOSBox environment:
 ```
 Z:\> IMGMOUNT.COM c hatch.img
 Z:\> C:
 C:\> UDEMO.EXE
 ```
+You will see a warning about being in the root directory; ignore that and press enter.
 
 # Notes
 
