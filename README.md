@@ -23,6 +23,6 @@ files](https://web.archive.org/web/20210111082444/https://blog.adamkehoe.com/hat
 
 ## Fork
 
-Initially forked to include the [PDF 
-manual](https://web.archive.org/web/20210111232845/https://adamkehoe.com/static/uap/hatch/hatch_manual.pdf) 
-now includes a disk image of the full version of the program (not just the demo).
+Repo initially forked to include the [PDF 
+manual](https://web.archive.org/web/20210111232845/https://adamkehoe.com/static/uap/hatch/hatch_manual.pdf).   
+Repo now includes a disk image of the full version of the program (not just the demo).
