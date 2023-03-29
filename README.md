@@ -8,7 +8,7 @@ By the late Larry Hatch.
 
 Within the DOSBox environment:
 ```
-Z:\> IMGMOUNT.COM c u_full_version.img
+Z:\> IMGMOUNT.COM C u_full_version.img -size 512,63,255,33
 Z:\> C:
 C:\> U.EXE
 ```
