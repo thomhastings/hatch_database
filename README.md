@@ -1,5 +1,6 @@
 # \*U\* Database Mapping and Research Tool
-By the late Larry Hatch.
+By the late Larry Hatch.  
+I want to thank Adam Kehoe, David Marler, Jérôme Beau, and Richard Geldreich Jr. for their work obtaining, preserving, analyzing, and releasing this program, as well as bringing it to my attention.
 
 ## Instructions
 
