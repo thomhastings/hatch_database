@@ -13,7 +13,7 @@ Z:\> IMGMOUNT.COM C u_full_version.img -size 512,63,255,33
 Z:\> C:
 C:\> U.EXE
 ```
-You will see a warning about being in the root directory; ignore that and press enter.
+You will see a warning about being in the root directory; ignore that and press enter. Wait for the array to load.
 
 ## Notes
 
