@@ -17,8 +17,7 @@ You will see a warning about being in the root directory; ignore that and press 
 
 ## Notes
 
-This repository also contains data files and code for the following blog post, by Adam Kehoe:
-
+This repository also contains data files and code for the following blog post, by Adam Kehoe:  
 [Analyzing The Nearly Lost Hatch Database: 18,123 case 
 files](https://web.archive.org/web/20210111082444/https://blog.adamkehoe.com/hatch-udatabase/)
 
@@ -27,3 +26,9 @@ files](https://web.archive.org/web/20210111082444/https://blog.adamkehoe.com/hat
 Repo initially forked to include the [PDF 
 manual](https://web.archive.org/web/20210111232845/https://adamkehoe.com/static/uap/hatch/hatch_manual.pdf).   
 Repo now includes a disk image of the full version of the program (not just the demo).
+
+## Data
+
+_Just give me the data!_  
+See [Rich Geldreich's JSON conversion in his repo here](https://github.com/richgel999/ufo_data/blob/main/bin/hatch_udb.json).  
+[Rich's blog post on the conversion](https://medium.com/@richgel99/hatchs-ufo-database-event-descriptions-converted-to-readable-english-and-imported-into-my-ufo-8b4cafb884f6).
